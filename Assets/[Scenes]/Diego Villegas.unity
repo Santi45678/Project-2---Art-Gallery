@@ -945,6 +945,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: "1970\u2019s Pontiac Firebird"
+      objectReference: {fileID: 0}
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_fontStyle
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1060,7 +1068,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1e3db1d90c2caa7469e728357df9b5e3, type: 2}
+      objectReference: {fileID: 2100000, guid: 5e59f18f7968543e3b81cf7e54c24c71, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1713,6 +1721,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: "1940\u2019s\nChrysler Thunderbolt"
+      objectReference: {fileID: 0}
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_fontStyle
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1828,7 +1844,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1e3db1d90c2caa7469e728357df9b5e3, type: 2}
+      objectReference: {fileID: 2100000, guid: 52d9330572a554171b23f5f3ab8968a8, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1847,6 +1863,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: "1950\u2019s  Ferrari 400 super America"
+      objectReference: {fileID: 0}
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_fontStyle
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1962,7 +1986,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1e3db1d90c2caa7469e728357df9b5e3, type: 2}
+      objectReference: {fileID: 2100000, guid: afbe5a5241a2346c3829f39c12de1cd1, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2180,6 +2204,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: "1960\u2019s Chevrolet Camaro"
+      objectReference: {fileID: 0}
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_fontStyle
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -2295,7 +2327,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 09c121aa8be7be64383b032ed041a98a, type: 2}
+      objectReference: {fileID: 2100000, guid: cef17351cc95b48bdb0e6fabbf221577, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
