@@ -144,15 +144,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9b574434f73c46a4eb333235dd556599, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.807
+      value: -6.876
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9b574434f73c46a4eb333235dd556599, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.116
+      value: 1.115
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9b574434f73c46a4eb333235dd556599, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10.156
+      value: 10.113
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9b574434f73c46a4eb333235dd556599, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1448,6 +1448,63 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0.1, y: 0.1}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &1429340197
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3670683752310442828, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_Name
+      value: Snowman Prefab Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.396
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.2580003
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.964
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9094693
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.41577107
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -49.136
+      objectReference: {fileID: 0}
+    - target: {fileID: 9054278469456421514, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 31160606fd7d24ddcab9ec373fbf8dd7, type: 3}
 --- !u!1001 &1433073375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5299,3 +5356,4 @@ SceneRoots:
   - {fileID: 1904680547}
   - {fileID: 924907052}
   - {fileID: 1849158193}
+  - {fileID: 1429340197}
